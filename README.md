@@ -60,3 +60,16 @@ General-round leaderboard belongs to the predecessor engine. The Final-round
 submission was a simpler engine chosen on structure rather than score — the
 report's §19–20 record why, and its postscript records how that choice fared
 on data nobody had seen.
+
+## The day
+
+Finals were presented at Susquehanna's Sydney office, 18 August 2026.
+
+![Presenting the strategy at the Algothon 2026 finals](assets/presentation.jpg)
+
+*Defending "pairs must earn the right to disagree" in front of the judges — the
+$5,000 question on the right.*
+
+| ![Team abc123](assets/team.jpg) | ![Team abc123 with our host](assets/team-with-host.jpg) |
+|---|---|
+| Team `abc123` | With our host at Susquehanna |
