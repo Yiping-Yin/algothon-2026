@@ -67,8 +67,7 @@ Finals were presented at Susquehanna's Sydney office, 18 August 2026.
 
 ![Presenting the strategy at the Algothon 2026 finals](assets/presentation.jpg)
 
-*Defending "pairs must earn the right to disagree" in front of the judges — the
-$5,000 question on the right.*
+*We went where fancy led us, and returned when the mood had passed.*
 
 | ![Team abc123](assets/team.jpg) | ![Team abc123 with our host](assets/team-with-host.jpg) |
 |---|---|
