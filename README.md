@@ -2,7 +2,7 @@
 
 ![General Round 1st · Final Round 3rd](assets/cover.png)
 
-**1st on the General-round leaderboard (984.62, public data) · 3rd on the
+**1st of 253 teams on the General-round leaderboard (984.62, public data) · 3rd on the
 Final-round Technical Score Leaderboard (1,085.169047, scored on 500 hidden
 days).** Algothon 2026, hosted by Susquehanna International Group and the UNSW
 FinTech Society.
@@ -42,7 +42,7 @@ the full derivation, evidence grading and falsification record is the PDF.
 |---|---|
 | `Algothon-Research-Report.pdf` | The complete 69-page research record, with a dated postscript reading the verified outcome against thresholds fixed in advance |
 | `strategy/abc123.py` | The frozen Final-round submission: a causal online ensemble, single stock engine, seven-feature non-negative logistic blend |
-| `strategy/final2.py` | The predecessor engine that held 1st on the General-round leaderboard, retired when its advantage failed to survive the release boundary (report, §19) |
+| `strategy/final2.py` | The predecessor engine that held 1st of 253 teams on the General-round leaderboard, retired when its advantage failed to survive the release boundary (report, §19) |
 | `docs/RESEARCH-NOTES.md` | The approach, written up |
 | `assets/cover.png` | General-round leaderboard capture + transcribed Final-round board |
 
