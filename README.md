@@ -55,7 +55,7 @@ The strategies run against the official evaluation harness in the
 [algothon26-starter-code](https://github.com/UNSW-FinTech-Society-IT/algothon26-starter-code)
 repository (`eval.py`, entry point `getMyPosition(prcSoFar)`).
 
-A note the report itself insists on: the 984.62 that held 1st on the
+A note the report itself insists on: the 984.62 that held 1st of 253 teams on the
 General-round leaderboard belongs to the predecessor engine. The Final-round
 submission was a simpler engine chosen on structure rather than score — the
 report's §19–20 record why, and its postscript records how that choice fared
